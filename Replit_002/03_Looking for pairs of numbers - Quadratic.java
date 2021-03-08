@@ -16,8 +16,6 @@ class Main {
   // Answer:
   //
   
-  
-  
   public static void main(String[] args) {
     
     // Let's try our code
