@@ -20,35 +20,6 @@ class Main {
         return -1;
     }
 
-    // Question 1.
-    // How many nested loops has your solution?
-    // Answer:
-    //
-
-    // Question 2.
-    // If the input array has 10 elements and there is no repeated number,
-    // how many times the instruction/s inside the inner loop is executed?
-    // Answer:
-    //
-
-    // Question 3.
-    // What is the difference in number of instructions executed of this
-    // approach compared to the first approach when a pair is not found.
-    // Answer:
-    //
-
-    // Question 4.
-    // Are both correct/effective?
-    // Answer:
-    //
-
-    // Question 5.
-    // Are both efficient?
-    // Answer:
-    //
-
-
-
     public static void main(String[] args) {
 
         // Let's try our code
