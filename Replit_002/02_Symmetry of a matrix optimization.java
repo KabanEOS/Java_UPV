@@ -1,6 +1,5 @@
 public class Main {
 
-
 public static boolean symmetricI(int[][] m) {
     int n = m.length;
     boolean isSymmetric = true;
